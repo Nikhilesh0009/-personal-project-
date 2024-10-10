@@ -1,0 +1,19 @@
+// Project title : Creatre a login page
+// Description : This is a basic Login Page built to perform  user authentication functionality.The login page allows users to enter their credentials username and password.
+
+//Features :
+"Username and Password ": Users can enter their credentials.
+"Form Validation":  validation on the username and password fields (like length and specail characters usage)
+"Submit Button" : if user name and pass entered then submit for authentication
+"Error" : if any credentials incorrect an error messade will appear
+
+ //Setting-UP :
+  
+  Create a local repo
+  Clone the local repo with remote repository
+  create a file name login page <.html>
+  code all the that req. to the features 
+  push the file to the repository
+  pull the file and run on the browser
+  
+  
